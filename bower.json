@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "homepage": "https://github.com/qintianqi111/moment",
+  "authors": [
+    "qinlh <313459447@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "less": "^2.7.1"
+  }
+}
